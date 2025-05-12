@@ -1,6 +1,6 @@
 # Data Driven A/B Testing Analysis of Student Behavior
 
-This repository contains the analysis of student behavior using A/B Testing and hypothesis testing with the Chi-Square test to evaluate differences in mobile operator preferences between users from Tamil Nadu and outside Tamil Nadu. The analysis includes data cleaning, preprocessing, hypothesis testing, and visualization of the test results.
+his project presents the analysis of student behavior using A/B Testing and hypothesis testing with the Chi-Square test to evaluate differences in mobile operator preferences between users from Tamil Nadu and outside Tamil Nadu. The analysis includes data cleaning, preprocessing, hypothesis testing, and visualization of the test results.
 
 ## Project Overview
 
@@ -30,5 +30,10 @@ Follow these steps to get the project up and running locally:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/AB-Testing-Student-Behavior.git
-cd AB-Testing-Student-Behavior
+git clone https://github.com/msaakaash/data-driven-ab-testing.git
+cd data-driven-ab-testing
+```
+
+## Author
+
+[**Aakaash M S**](https://github.com/msaakaash)
