@@ -1,6 +1,6 @@
 # Data Driven A/B Testing Analysis of Student Behavior
 
-his project presents the analysis of student behavior using A/B Testing and hypothesis testing with the Chi-Square test to evaluate differences in mobile operator preferences between users from Tamil Nadu and outside Tamil Nadu. The analysis includes data cleaning, preprocessing, hypothesis testing, and visualization of the test results.
+This project presents the analysis of student behavior using A/B Testing and hypothesis testing with the Chi-Square test to evaluate differences in mobile operator preferences between users from Tamil Nadu and outside Tamil Nadu. The analysis includes data cleaning, preprocessing, hypothesis testing, and visualization of the test results.
 
 ## Project Overview
 
