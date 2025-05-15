@@ -33,6 +33,8 @@ Follow these steps to get the project up and running locally:
 git clone https://github.com/msaakaash/data-driven-ab-testing.git
 cd data-driven-ab-testing
 ```
+## License  
+This project is licensed under the [MIT License](LICENSE).
 
 ## Author
 
